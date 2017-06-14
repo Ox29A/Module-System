@@ -1,0 +1,6 @@
+c:\users\corey\documents\visual studio 2017\Projects\ModularSystem\ModularSystem\bin\Debug\ModularSystem.exe.config
+c:\users\corey\documents\visual studio 2017\Projects\ModularSystem\ModularSystem\bin\Debug\ModularSystem.exe
+c:\users\corey\documents\visual studio 2017\Projects\ModularSystem\ModularSystem\bin\Debug\ModularSystem.pdb
+c:\users\corey\documents\visual studio 2017\Projects\ModularSystem\ModularSystem\obj\Debug\ModularSystem.csprojResolveAssemblyReference.cache
+c:\users\corey\documents\visual studio 2017\Projects\ModularSystem\ModularSystem\obj\Debug\ModularSystem.exe
+c:\users\corey\documents\visual studio 2017\Projects\ModularSystem\ModularSystem\obj\Debug\ModularSystem.pdb
